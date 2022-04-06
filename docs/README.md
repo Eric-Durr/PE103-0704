@@ -6,6 +6,12 @@
 >>>
 >>>[Eric Dürr Sierra](alu0101027005@ull.edu.es)
 
+[![Report deploy to Github Pages](https://github.com/Eric-Durr/PE103-0704/actions/workflows/deploy.yml/badge.svg)](https://github.com/Eric-Durr/PE103-0704/actions/workflows/deploy.yml)
+[![Test and coverage](https://github.com/Eric-Durr/PE103-0704/actions/workflows/runtests.yml/badge.svg)](https://github.com/Eric-Durr/PE103-0704/actions/workflows/runtests.yml)
+
+[![Coveralls deployed coverage Status](https://coveralls.io/repos/github/Eric-Durr/PE103-0704/badge.svg?branch=master)](https://coveralls.io/github/Eric-Durr/PE103-0704?branch=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Eric-Durr_PE103-0704&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Eric-Durr_PE103-0704)
+
 ***
 
 ## [Enlace a la documentacion generada con TypeDoc](http://dsi-pe103-07-04-code-docs.surge.sh)
