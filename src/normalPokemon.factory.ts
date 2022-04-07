@@ -23,10 +23,6 @@ export default class NormalPokemonCreator extends Factory {
     return this._stats;
   }
 
-  set stats(value: Stats) {
-    this._stats = value;
-  }
-
   get name(): string {
     return this._name;
   }
