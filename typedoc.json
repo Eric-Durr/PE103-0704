@@ -1,5 +1,10 @@
 {
   "entryPoints": [
+    "./src/combat.class.ts",
+    "./src/pokedex.class.ts",
+    "./src/pokemon.class.ts",
+    "./src/pokemon.factory.ts",
+    "./src/pokemon.interfaces.ts",
     "./src/default.ts"
   ],
   "out": "doc"
