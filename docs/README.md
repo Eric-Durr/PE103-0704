@@ -16,6 +16,10 @@
 
 ## [Enlace a la documentacion generada con TypeDoc](http://dsi-pe103-07-04-code-docs.surge.sh)
 
+## Nota
+
+### La quality gate de  sonarcloud falla por la duplicidad derivada de definir múltiples clases creadoras para cada tipo de pokemon
+
 ## Comandos npm del repositorio
 
 - npm test  `ejecuta los test unitarios`

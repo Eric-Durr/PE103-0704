@@ -21,7 +21,7 @@ describe('Test as client code for factory method pokemon class', () => {
   };
   it('Normal Pokemon Creator works with client code function', () => {
     expect(
-      everyPokemonToString(new NormalPokemonCreator('ratata', defaultShape, defaultStats))
+      everyPokemonToString(new NormalPokemonCreator('ratata', defaultShape, defaultStats)),
     )
       .to
       .be
@@ -29,7 +29,7 @@ describe('Test as client code for factory method pokemon class', () => {
   });
   it('Fire Pokemon Creator works with client code function', () => {
     expect(
-      everyPokemonToString(new FirePokemonCreator('charmander', defaultShape, defaultStats))
+      everyPokemonToString(new FirePokemonCreator('charmander', defaultShape, defaultStats)),
     )
       .to
       .be
@@ -37,7 +37,7 @@ describe('Test as client code for factory method pokemon class', () => {
   });
   it('Leaf Pokemon Creator works with client code function', () => {
     expect(
-      everyPokemonToString(new LeafPokemonCreator('bulbasaur', defaultShape, defaultStats))
+      everyPokemonToString(new LeafPokemonCreator('bulbasaur', defaultShape, defaultStats)),
     )
       .to
       .be
@@ -45,7 +45,7 @@ describe('Test as client code for factory method pokemon class', () => {
   });
   it('Water Pokemon Creator works with client code function', () => {
     expect(
-      everyPokemonToString(new WaterPokemonCreator('squirtle', defaultShape, defaultStats))
+      everyPokemonToString(new WaterPokemonCreator('squirtle', defaultShape, defaultStats)),
     )
       .to
       .be
@@ -53,7 +53,7 @@ describe('Test as client code for factory method pokemon class', () => {
   });
   it('Electric Pokemon Creator works with client code function', () => {
     expect(
-      everyPokemonToString(new ElectricPokemonCreator('pikachu', defaultShape, defaultStats))
+      everyPokemonToString(new ElectricPokemonCreator('pikachu', defaultShape, defaultStats)),
     )
       .to
       .be
