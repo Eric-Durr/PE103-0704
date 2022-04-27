@@ -1,8 +1,8 @@
-# PE103 - Espacios de nombres y módulos ES6. Patrones de diseño en TypeScript: Singleton, Adapter, Observer, Strategy
+# PE103 - 28/04/2022
 
 >Informe para la asignatura de Desarrollo de Sistemas Informáticos
 >
->>**Última modificación**: 07/04/2022
+>>**Última modificación**: 28/04/2022
 >>>
 >>>[Eric Dürr Sierra](alu0101027005@ull.edu.es)
 
