@@ -4,6 +4,6 @@ import trueFunction from '../src/index';
 
 describe('', () => {
   it('', () => {
-    expect(defaultFunction()).to.be.true;
+    expect(trueFunction()).to.be.true;
   });
 });

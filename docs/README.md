@@ -1,8 +1,8 @@
-# PE103 - Espacios de nombres y módulos ES6. Patrones de diseño en TypeScript: Singleton, Adapter, Observer, Strategy
+# PE103 - 28/04/2022
 
 >Informe para la asignatura de Desarrollo de Sistemas Informáticos
 >
->>**Última modificación**: 07/04/2022
+>>**Última modificación**: 28/04/2022
 >>>
 >>>[Eric Dürr Sierra](alu0101027005@ull.edu.es)
 
@@ -15,6 +15,10 @@
 ***
 
 ## [Enlace a la documentacion generada con TypeDoc](http://dsi-pe103-07-04-code-docs.surge.sh)
+
+## Nota
+
+### La quality gate de  sonarcloud falla por la duplicidad derivada de definir múltiples clases creadoras para cada tipo de pokemon
 
 ## Comandos npm del repositorio
 
