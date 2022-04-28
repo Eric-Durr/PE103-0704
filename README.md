@@ -10,9 +10,21 @@
 
 ## [Enlace a la documentacion generada con TypeDoc](http://dsi-pe103-28-04-code-docs.surge.sh)
 
-## Nota
+## Respuestas
 
-### La quality gate de  sonarcloud falla por la duplicidad derivada de definir múltiples clases creadoras para cada tipo de pokemon
+### 1 ¿Qué argumentos recibe el manejador de la función watch?
+
+recibe el tipo de ebento y el nombre del fichero
+
+### 2 ¿Qué sucede si el fichero pasado desde la línea de comandos al programa anterior no existe?
+
+Se lanza un error donde se describe que el path indicado no contiene el fichero que se busca observar
+
+### 3 ¿Qué sucede si el fichero observado se elimina mientras está siendo observado?
+
+Se lanza un error donde se describe que el path indicado no contiene el fichero que se busca observar
+
+
 
 ## Comandos npm del repositorio
 
